@@ -1,0 +1,45 @@
+/*img{
+  width:50%;
+ } Usei para escolher o tamanho da imagem */
+ img{
+    width:50%;
+   }
+  img{
+    width:50%;
+   }
+  img{
+    width:50%;
+   }
+  img{
+    width:50%;
+   }
+  /* Usei th, td{
+  padding: 15px;
+  text-align: center;
+  width: 10000px;
+  } para alinhar os textos no centro, colocar a largura e ajustar o preenchimento das colunas*/
+  th, td{
+  padding: 15px;
+  text-align: center;
+  width: 10000px;
+  }
+  /* h1{
+    color: pink;
+  } Usei para colocar cor no texto "tabela"*/
+  h1{
+    color: pink;
+  }
+  /* tr:nth-child(even) {
+  background-color: pink;
+  } usei para colocar cor nas colunas 1,3 e 5*/
+  tr:nth-child(even) {
+  background-color: pink;
+  }
+  
+  /*table, th, td {
+  border: 3px solid pink;
+  } usei para ajustar a cor e o tamanho da borda*/
+  table, th, td {
+  border: 3px solid pink;
+  }
+  
